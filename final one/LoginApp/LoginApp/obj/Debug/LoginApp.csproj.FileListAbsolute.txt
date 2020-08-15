@@ -1,0 +1,13 @@
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.csprojAssemblyReference.cache
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.frmLogin.resources
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.frmMain.resources
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.AddEmp.resources
+E:\semester 02\Assignments\C#\final one\LoginApp\LoginApp\obj\Debug\LoginApp.calculation.resources
